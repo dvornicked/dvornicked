@@ -14,7 +14,7 @@
 
 [<img src="svg/vk.svg" alt="VK Logo">][vk]
 [<img src="svg/tg.svg" alt="TG Logo">][tg]
-
+<!-- 
 ## Tools
 
 - ### Basic
@@ -47,7 +47,7 @@
 - ### Linters
     <img src="svg/prettier.svg" alt="Prettier Logo">
     <img src="svg/stylelint.svg" alt="Stylelint Logo">
-    <img src="svg/eslint.svg" alt="ESLint Logo">
+    <img src="svg/eslint.svg" alt="ESLint Logo"> -->
 
 [vk]: https://vk.com/dvornicked
 [tg]: https://t.me/dvornicked
